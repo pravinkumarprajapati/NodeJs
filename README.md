@@ -1,2 +1,2 @@
 # NodeJs
-The begineer tutorial for Node
+A beginner tutorial for Node.js.
